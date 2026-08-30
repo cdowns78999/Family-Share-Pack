@@ -1,0 +1,37 @@
+Hey! This is a self-installing copy of Chad's /github skill.
+To get your own working copy, just hand the block below to your Claude Code assistant.
+
+DROP THE BELOW DIRECTLY INTO YOUR CLAUDE CODE PROMPT / CLI:
+
+--------------------------------------------------------------------
+
+/ascii SKILL FLIP
+
+Build the github skill locally, mirroring its full TUI and logic exactly —
+the complete SKILL.md content, every sub-skill section included (LOCKED
+FIRST-FIRE VIEW, GITHUB PLAN, --local-clone, --family-config with all 3
+options, --glossary). Not a stub or a summary — the full working skill.
+
+Before writing anything, render the full LOCKED FIRST-FIRE VIEW this skill
+is about to install and ask: "Install this skill?" — wait for an explicit
+yes. Do not write anything before approval.
+
+On yes: write the skill's SKILL.md file into
+C:\Users\<my-username>\.claude\skills\github\SKILL.md, creating the
+destination folder if it doesn't already exist. This must include the
+full skill tree — critically, my own /github skill comes with a working
+--family-config sub-skill too, so I can package and send my own projects
+to my own family GitHub repo, the same way this one was sent to me.
+
+Once written, verify the install by confirming SKILL.md exists at that
+destination — report back whether it's there.
+
+The full SKILL.md content to install is reproduced in full below this
+block (or attached alongside this file as SKILL.md in the same delivery
+folder) — use that exact content verbatim, start to finish, every
+sub-skill section included, when writing the destination file.
+
+--------------------------------------------------------------------
+
+That's it — approve the install prompt when it renders, and you'll have
+your own working /github skill, including its own --family-config flow.
