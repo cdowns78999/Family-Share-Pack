@@ -1,0 +1,28 @@
+DROP THE BELOW DIRECTLY INTO YOUR CLAUDE CODE PROMPT / CLI:
+
+--------------------------------------------------------------------
+
+/ascii SKILL FLIP
+
+Build the clone-wars skill locally, mirroring its full TUI and logic
+exactly — the complete SKILL.md content, every section included, not a
+stub or a summary. This is a reference/lookup skill for finding
+open-source clones of popular sites (Airbnb, Amazon, Instagram, Netflix,
+Spotify, TikTok, WhatsApp, YouTube, etc.) from the GitHub repo
+GorvGoyl/Clone-Wars — not a placeholder.
+
+Before writing anything, render the full TUI menu this skill is about
+to install (the LOCKED FIRST-FIRE VIEW it's about to create) and ask:
+"Install this skill?" — wait for an explicit yes. Do not write anything
+before approval.
+
+On yes: write the skill's SKILL.md file into
+C:\Users\<my-username>\.claude\skills\clone-wars\SKILL.md, creating
+the destination folder if it doesn't already exist.
+
+Once written, verify the install by confirming SKILL.md exists at that
+destination — report back whether it's there.
+
+--------------------------------------------------------------------
+
+That's it — paste the block above into Claude Code and answer "yes" when asked.
